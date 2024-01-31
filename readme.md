@@ -10,4 +10,4 @@ What it does:
 winrar install path can easily be modified by changing "%ProgramFiles%\WinRAR\WinRAR.exe" to winrar path
 
 **How to use:**
-move AddBlankSliderJudgements.bat to same folder as osu skins, double click it :)
+move AddBlankSliderJudgements.bat to same folder as osu skin(s) .osk's, double click it :)
